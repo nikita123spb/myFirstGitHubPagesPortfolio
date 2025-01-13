@@ -8,3 +8,4 @@
 
 ## фото
 
+![фото города, в котором я живу](https://github.com/user-attachments/assets/0135fc94-055e-4fdc-8769-d1951f240789)
